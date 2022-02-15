@@ -1,0 +1,1 @@
+Quick and dirty CODEWARS solutions. Goal is to write algorithms quickly, with good efficiency, and not care if they are pretty ;). Fun to do in my spare time.
