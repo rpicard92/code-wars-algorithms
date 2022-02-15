@@ -27,4 +27,4 @@ std::vector<std::string> solution(const std::string &s)
     //}
     
     return vec; // Your code here
-}
+} 

@@ -21,4 +21,4 @@ std::string add_binary(uint64_t a, uint64_t b) {
     ans = ans + std::to_string(vec.at(i)); 
   }
   return ans;
-}
+} 

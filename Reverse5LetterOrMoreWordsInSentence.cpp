@@ -43,4 +43,4 @@ std::string spinWords(const std::string &str)
   }  
   std::cout << ans << std::endl;
   return ans;
-}// spinWords
+}// spinWords 

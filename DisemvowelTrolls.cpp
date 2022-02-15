@@ -18,4 +18,4 @@ std::string disemvowel(const std::string& str) {
     str2.erase(position.at(i),1);
   }
     return str2;
-}
+} 

@@ -31,4 +31,4 @@ bool narcissistic( int value ){
   } else {
     return false;
   }
-}
+} 

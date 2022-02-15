@@ -92,7 +92,7 @@ class RGBToHex
     }
     if(rem == 15){
       return "F";
-    }
+    } 
   }
   
 };
